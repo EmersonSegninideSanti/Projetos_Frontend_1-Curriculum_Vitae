@@ -1,0 +1,28 @@
+header {
+    border-top: 3px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    margin: .5rem 0;
+    color: black;
+}
+h2 {
+    color: darkgreen;
+    padding: 0;
+    margin: .5rem 0;
+    font-size: 1.1rem;
+}
+h3 {
+    color: dodgerblue;
+    padding: 0;
+    margin: .2rem 0;
+    font-size: 1.15rem;
+}
+p {
+    margin: .2rem 0;
+}
+div, header {
+    margin-bottom: 2rem;
+}
